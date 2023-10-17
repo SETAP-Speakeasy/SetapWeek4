@@ -9,8 +9,9 @@ Scenario E. EcoCalculator
 Questions:
 
 1 What is the mode/modes of transport would users be using
-2 
-3
-4
-5
-6
+2 How do we want to track users carbon footprint?
+3 How do you want us to keep users engaging and inputing data?
+4 How large do you expect the userbase to be?
+5 How could we suggest reducing people's carbon consumption?
+6 How do we want to use, user data to achieve our main goals?
+
