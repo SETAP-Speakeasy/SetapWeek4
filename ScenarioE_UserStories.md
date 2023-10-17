@@ -1,12 +1,12 @@
 # SetapWeek4
 ## SETAP Week 4 Work <br > 
 
-### Scenario E. EcoCalculator <br > 
+### **Scenario E. EcoCalculator** <br > 
 
 “The application that we will be developing will be an EcoCalculator. The application will allow the user to track their carbon footprint and give the user <br > suggestions on how they can reduce their carbon consumption.” The target audience for this app is commuters and/or people who travel for work regularly.  (Team 4D, 2019) <br > 
 
 
-### Questions: <br > 
+### **Questions:** <br > 
 
 1 What is the mode/modes of transport would users be using <br > 
 2 How do we want to track users carbon footprint? <br > 
@@ -15,7 +15,7 @@
 5 How could we suggest reducing people's carbon consumption? <br > 
 6 How do we want to use, user data to achieve our main goals? <br > 
 
-### Answers: <br >
+### **Answers:** <br >
 
 1  <br >
 2  <br >
