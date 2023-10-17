@@ -15,3 +15,11 @@ Questions: <br >
 5 How could we suggest reducing people's carbon consumption? <br > 
 6 How do we want to use, user data to achieve our main goals? <br > 
 
+Answers: <br >
+
+1  <br >
+2  <br >
+3  <br >
+4  <br >
+5  <br >
+6  <br >
