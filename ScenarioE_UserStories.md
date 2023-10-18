@@ -16,7 +16,7 @@
 
 ### **Answers:** <br >
 
-1  <br >
+1 drive everywhere, remote location, limited access to public transport <br >
 2  <br >
 3  <br >
 4  <br >
