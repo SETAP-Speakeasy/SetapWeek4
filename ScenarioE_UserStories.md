@@ -19,6 +19,6 @@
 1 drive everywhere, remote location, limited access to public transport <br >
 2  <br >
 3  progress proof, show how the user is impacting the environment <br >
-4  <br >
+4  small userbase<br >
 5  <br >
 6  <br >
